@@ -1,0 +1,54 @@
+body {
+    background-color: #461717;
+    color: #464646;
+}
+
+.bodybox {
+    background-color: white;
+    padding: 50px;
+    text-align: center;
+    align-items: center;
+    border-bottom: 15px;
+}
+
+.find-button {
+    margin: 20px;
+}
+
+img {
+    width: 100%;
+}
+
+.header-box {
+    background-color: #461717;
+    width: 100%;
+    height: 10%;
+    align-items: center;
+    text-align: center;
+    color: white;
+    border-bottom: 15px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  table td,
+  table th {
+    border: 1px solid #dddddd;
+    padding: 8px;
+  }
+  
+  table th {
+    background-color: #f9f9f9;
+    font-weight: bold;
+  }
+  
+  table tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  table tr:hover {
+    background-color: #eaeaea;
+  }
