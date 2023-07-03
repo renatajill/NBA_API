@@ -1,2 +1,3 @@
 # NBA_API
-Assignment 1 - Web App Programming
+Assignment - Web App Programming
+Using a free API and integrating on JS
